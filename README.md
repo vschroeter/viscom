@@ -1,2 +1,2 @@
-# circomm
+# CirComm 
 Circular Communication Graph Visualization
