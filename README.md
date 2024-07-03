@@ -1,2 +1,3 @@
-# CirComm 
-Circular Communication Graph Visualization
+# VisCom
+Visualization for Communication Graphs.
+Under development.
